@@ -10,9 +10,12 @@
 
 - 💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef, Google Contests.
 
-- 🧑‍🎓 I’m currently learning Computer Science and Software Engineering.
+- 🧑‍🎓 I’m currently learning Software Engineering and Preparing for Coding interviews with MAANG
 
 - 🤓 Always learning new things.
+  
+- 💻 interested to Web - Data Engineering - Problem Solving
+  
 <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
