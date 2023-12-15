@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Fekrasion Company Website (In Progress)**
 
-- 💬 Ask me about **React JS , Competitive Programming and Problem Solving , Frontend**
+- 💬 Ask me about **Frontend Concepts, Competitive Programming and Problem Solving**
 
 - 📫 How to reach me **mohamedahmedgalhoum@gmail.com**
 
