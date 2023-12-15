@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedahmedgalhoum" alt="mohamedahmedgalhoum" /></a> </p>
 
-- 🔭 I’m currently working on **Shopping Cart (In Progress Currently)**
+- 🏫 I am a Fresh Graduate from the Faculty of Computers & Informatics Modern Academy.
 
-- 🌱 I’m currently learning **Frontend Concepts(React JS), Backend Concepts(Node JS) , Competitive Programming and Solve Problems From Different Sites like a LeetCode-Codeforces-Codechef-UVA**
+- 🧑‍💻 I love using Software to solve every Problem.
 
-- 👯 I’m looking to collaborate on **Fekrasion Company Website (In Progress)**
+- 💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef, Google Contests.
 
-- 💬 Ask me about **Frontend Concepts, Competitive Programming and Problem Solving**
+- 🧑‍🎓 I’m currently learning Computer Science and Software Engineering.
 
-- 📫 How to reach me **mohamedahmedgalhoum@gmail.com**
+- 🤓 Always learning new things.
 <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
