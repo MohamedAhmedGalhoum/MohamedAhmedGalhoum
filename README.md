@@ -8,7 +8,7 @@
 
 - 🧑‍💻 I love using Software to solve every Problem.
 
-- 💻 I am a competitive programmer at Codeforces, Leetcode, Codechef , UVA.
+- 💻 I am a Problem Solver at Codeforces, Leetcode, Codechef , UVA.
 
 - 🧑‍🎓 I’m currently learning Software Engineering and Preparing for Coding interviews with MAANG
 
