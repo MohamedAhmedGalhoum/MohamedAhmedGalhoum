@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed Galhoum</h1>
-<h3 align="center">A Passionate Software Engineer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Galhoum</h1>
+<h3 align="center">A Passionate Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedahmedgalhoum&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedahmedgalhoum" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedahmedgalhoum" alt="mohamedahmedgalhoum" /></a> </p>
