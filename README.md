@@ -64,10 +64,7 @@ Some of my achievements:
 
 * 🥇 **Codeforces Master — 2188**
 * 🌍 Ranked in the **top 0.3% worldwide** among 600K+ users.
-* 🏅 **Game of Coders 5.0 Finalist**
-* ⚡ Solved **9 problems individually**
-* 🥇 **First to solve Problem J**
-* 🎯 Ranked **24th among 100 teams**
+* 🏅 **Game of Coders 5.0 Finalist Solved 9 problems individually First to solve Problem J**
 * 👨‍🏫 Coached a team that ranked **41st among 360 teams** in ECPC Teens Online Qualification.
 * 🏆 Received **ECPC Honorable Mention** in 2021 and 2022.
 * 🥉 Achieved **4th/25** and **3rd/30** in MACPC 2021 and 2022.
