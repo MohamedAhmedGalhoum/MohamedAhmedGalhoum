@@ -246,7 +246,7 @@ I also prepare programming problems, learning materials, mock contests, and code
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="35" width="40" />
 </a>
 
-<a href="[https://codeforces.com/profile/shadow_77](https://codeforces.com/profile/MuoohlAG)" target="_blank">
+<a href="https://codeforces.com/profile/MuoohlAG" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="35" width="40" />
 </a>
 
