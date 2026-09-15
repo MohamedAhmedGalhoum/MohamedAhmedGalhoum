@@ -242,7 +242,7 @@ I also prepare programming problems, learning materials, mock contests, and code
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="35" width="40" />
 </a>
 
-<a href="https://www.codechef.com/users/galhoum_7" target="_blank">
+<a href="https://www.codechef.com/users/muohlag" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="35" width="40" />
 </a>
 
