@@ -6,12 +6,12 @@ Software Engineer • Competitive Programmer • Problem Solving Coach
 
 <p align="center">
   <a href="https://github.com/mohamedahmedgalhoum">
-    <img src="https://komarev.com/ghpvc/?username=mohamedahmedgalhoum&label=Profile%20Views&color=0e75b6&style=flat" alt="mohamedahmedgalhoum" />
+    <img src="https://www.facebook.com/photo/?fbid=2787946781580960&set=a.104067009968964" alt="mohamedahmedgalhoum" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedahmedgalhoum&theme=flat&no-frame=true&margin-w=10" alt="Mohamed Galhoum trophies" />
+  <img src="" alt="Mohamed Galhoum trophies" />
 </p>
 
 ---
