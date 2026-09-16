@@ -6,13 +6,13 @@ Software Engineer • Competitive Programmer • Problem Solving Coach
 
 <p align="center">
   <a href="https://github.com/mohamedahmedgalhoum">
-    <img src="https://www.facebook.com/photo/?fbid=2787946781580960&set=a.104067009968964" alt="mohamedahmedgalhoum" />
+    <img src="https://i.pinimg.com/474x/19/98/63/199863be3b12630c791cb5b11850b36a.jpg" alt="mohamedahmedgalhoum" />
   </a>
 </p>
 
-<p align="center">
-  <img src="" alt="Mohamed Galhoum trophies" />
-</p>
+<!-- <p align="center">
+  <img src="https://i.pinimg.com/474x/19/98/63/199863be3b12630c791cb5b11850b36a.jpg" alt="Mohamed Galhoum trophies" />
+</p> -->
 
 ---
 
