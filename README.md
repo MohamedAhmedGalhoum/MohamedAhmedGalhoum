@@ -22,7 +22,6 @@ Software Engineer • Competitive Programmer • Problem Solving Coach
 * 🧠 **Competitive Programmer** who enjoys turning complex problems into efficient solutions.
 * 🏆 **Codeforces Master** with a peak rating of **2188**, ranking among the **top 0.3% worldwide**.
 * 👨‍🏫 **Programming Coach & Tutor** teaching C++, Data Structures, Algorithms, and Competitive Programming.
-* ⚙️ Experienced in building **full-stack applications, frontend systems, REST APIs, and developer tools**.
 * 🔥 Currently building **Threadly**, a production-ready Reddit clone using modern full-stack technologies.
 * 🛠️ Built a **Tiny Online Code Editor** with live HTML/CSS/JavaScript execution.
 * 🌱 Always learning, experimenting, and looking for better ways to solve problems.
