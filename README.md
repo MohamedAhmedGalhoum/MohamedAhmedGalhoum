@@ -260,13 +260,13 @@ I also prepare programming problems, learning materials, mock contests, and code
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedahmedgalhoum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed Galhoum GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmedgalhoum&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahmedgalhoum&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
