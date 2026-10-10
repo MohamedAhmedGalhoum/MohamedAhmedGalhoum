@@ -1,5 +1,3 @@
-# Hi 👋, I'm Mohamed Galhoum
-
 <h1 align="center">Hi 👋, I'm Mohamed Galhoum</h1>
 
 <h3 align="center">
