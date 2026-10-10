@@ -1,3 +1,5 @@
+# Hi 👋, I'm Mohamed Galhoum
+
 <h1 align="center">Hi 👋, I'm Mohamed Galhoum</h1>
 
 <h3 align="center">
@@ -6,13 +8,9 @@ Software Engineer • Competitive Programmer • Problem Solving Coach
 
 <p align="center">
   <a href="https://github.com/mohamedahmedgalhoum">
-    <img src="https://i.pinimg.com/474x/19/98/63/199863be3b12630c791cb5b11850b36a.jpg" alt="mohamedahmedgalhoum" />
+    <img src="https://i.pinimg.com/474x/19/98/63/199863be3b12630c791cb5b11850b36a.jpg" alt="Mohamed Galhoum" />
   </a>
 </p>
-
-<!-- <p align="center">
-  <img src="https://i.pinimg.com/474x/19/98/63/199863be3b12630c791cb5b11850b36a.jpg" alt="Mohamed Galhoum trophies" />
-</p> -->
 
 ---
 
@@ -51,16 +49,21 @@ I enjoy going beyond **"it works"** and asking:
 ### 🏆 Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codeforces-Master-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Max%20Rating-2188-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CodeChef-4★-5b4638?style=for-the-badge"/>
+  <a href="https://www.codechef.com/users/muohlag">
+    <img src="https://img.shields.io/badge/CodeChef-4%20Star-5b4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 4 Star" />
+  </a>
+  <img src="https://img.shields.io/badge/Highest%20Rating-1819-orange?style=for-the-badge" alt="Highest CodeChef Rating 1819" />
+  <img src="https://img.shields.io/badge/Global%20Rank-3880-blue?style=for-the-badge" alt="CodeChef Global Rank 3880" />
+  <img src="https://img.shields.io/badge/Egypt%20Rank-25-green?style=for-the-badge" alt="CodeChef Egypt Rank 25" />
 </p>
 
 Some of my achievements:
 
-* 🥇 **4 Stars Codechef — 1819**
-* 🏅 **Game of Coders 5.0 Finalist Solved 9 problems individually First to solve Problem J**
-* 👨‍🏫 Coached a team that ranked **41st among 360 teams** in ECPC Teens Online Qualification.
+* ⭐ Achieved **4-Star status on CodeChef**, with a highest rating of **1819**.
+* 🌍 Ranked **#3,880 globally** on CodeChef.
+* 🇪🇬 Ranked **#25 in Egypt** on CodeChef.
+* 🏅 **Game of Coders 5.0 Finalist** — solved 9 problems individually and was the first to solve Problem J.
+* 👨‍🏫 Coached a team that ranked **41st among 360 teams** in the ECPC Teens Online Qualification.
 * 🏆 Received **ECPC Honorable Mention** in 2021 and 2022.
 * 🥉 Achieved **4th/25** and **3rd/30** in MACPC 2021 and 2022.
 
@@ -84,13 +87,13 @@ Some of my achievements:
 * 🏗️ Applied **Strategy & Repository design patterns**
 * 🗄️ Designed normalized relational models for Posts, Tags, Votes, and Comments
 * 🔐 Integrated secure authentication with Neon Auth
-* 🧱 Built reusable UI components with React, Tailwind CSS and shadcn/ui
+* 🧱 Built reusable UI components with React, Tailwind CSS, and shadcn/ui
 
 ---
 
 #### ⚡ Tiny Online Code Editor
 
-> A browser-based IDE for writing and executing HTML, CSS and JavaScript.
+> A browser-based IDE for writing and executing HTML, CSS, and JavaScript.
 
 **Highlights:**
 
