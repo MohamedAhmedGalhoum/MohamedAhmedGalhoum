@@ -20,7 +20,6 @@ Software Engineer • Competitive Programmer • Problem Solving Coach
 
 * 💻 **Software Engineer** passionate about building reliable and scalable software.
 * 🧠 **Competitive Programmer** who enjoys turning complex problems into efficient solutions.
-* 🏆 **Codeforces Master** with a peak rating of **2188**, ranking among the **top 0.3% worldwide**.
 * 👨‍🏫 **Programming Coach & Tutor** teaching C++, Data Structures, Algorithms, and Competitive Programming.
 * 🌱 Always learning, experimenting, and looking for better ways to solve problems.
 * 🎯 Interested in **Software Engineering, Full-Stack Development, Frontend Architecture, Algorithms, System Design, and Performance Optimization**.
@@ -59,8 +58,7 @@ I enjoy going beyond **"it works"** and asking:
 
 Some of my achievements:
 
-* 🥇 **Codeforces Master — 2188**
-* 🌍 Ranked in the **top 0.3% worldwide** among 600K+ users.
+* 🥇 **4 Stars Codechef — 1819**
 * 🏅 **Game of Coders 5.0 Finalist Solved 9 problems individually First to solve Problem J**
 * 👨‍🏫 Coached a team that ranked **41st among 360 teams** in ECPC Teens Online Qualification.
 * 🏆 Received **ECPC Honorable Mention** in 2021 and 2022.
@@ -241,10 +239,6 @@ I also prepare programming problems, learning materials, mock contests, and code
 
 <a href="https://www.codechef.com/users/muohlag" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="35" width="40" />
-</a>
-
-<a href="https://codeforces.com/profile/MuoohlAG" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="35" width="40" />
 </a>
 
 <a href="https://www.leetcode.com/galhoumgee" target="_blank">
